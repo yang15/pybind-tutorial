@@ -1,0 +1,4 @@
+/Users/jing/MolSSI-traning/pybind-tutorial/build/CMakeFiles/rebuild_cache.dir
+/Users/jing/MolSSI-traning/pybind-tutorial/build/CMakeFiles/edit_cache.dir
+/Users/jing/MolSSI-traning/pybind-tutorial/build/CMakeFiles/numpy_mod.dir
+/Users/jing/MolSSI-traning/pybind-tutorial/build/CMakeFiles/basic_mod.dir

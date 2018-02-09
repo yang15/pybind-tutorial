@@ -1,0 +1,1 @@
+/Users/jing/miniconda3/envs/pybind_env/bin/c++  -Wno-deprecated-declarations -bundle -Wl,-headerpad_max_install_names  -o numpy_mod.cpython-36m-darwin.so CMakeFiles/numpy_mod.dir/numpy_mod.cpp.o -undefined dynamic_lookup 
